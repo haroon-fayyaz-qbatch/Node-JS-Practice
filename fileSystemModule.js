@@ -12,7 +12,6 @@ if(err){
   })
 }
 else{
-
   console.log("folder successfully created");
 }
 });
