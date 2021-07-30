@@ -9,3 +9,6 @@ let printMsg = (evenFunc, num) => {
 
 // Pass in isEven as the callback function
 printMsg(isEven, 4);
+
+
+
